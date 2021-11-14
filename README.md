@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leecoder92
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python3
+- 🌱 I’m currently learning python3, html, css, javascript
 - 💞️ I’m looking to collaborate on Web Programming
 - 📫 How to reach me: ljj9316@naver.com
 
